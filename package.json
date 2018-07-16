@@ -1,0 +1,17 @@
+{
+  "name": "video-conference-app-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabio M. S. Junior",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "open": "0.0.5",
+    "react-native-webrtc": "^1.63.0",
+    "socket.io": "^2.1.1"
+  }
+}
